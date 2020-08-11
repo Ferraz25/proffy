@@ -61,15 +61,7 @@ O layout da aplicação está disponível nas versões Mobile e Web.
 
 <p align="center">
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/mobile_inicial.png" width="200px">
-  
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/mobile_cadastro.png" width="200px">
-
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/tela_mobile_busca1.png" width="200px">
-
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/tela_mobile_res1.png" width="200px">
 
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/tela_mobile_busca2.png" width="200px">
-
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/tela_mobile_res2.png" width="200px">
-
+  
 </p>
