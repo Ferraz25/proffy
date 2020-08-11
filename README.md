@@ -68,3 +68,12 @@ O layout da aplicação está disponível nas versões Mobile e Web.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/desktop.png" width="400px">
 </p>
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [HTML][html]
+- [CSS][css]
+- [JavaScript][javascript]
+- [SQLite][sqlite]
