@@ -66,5 +66,5 @@ O layout da aplicação está disponível nas versões Mobile e Web.
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/desktop.inicial.png" width="400px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/desktop_inicial.png" width="400px">
 </p>
