@@ -73,7 +73,7 @@ O layout da aplicação está disponível nas versões Mobile e Web.
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- HTML html
+- HTML
 - CSS
 - JavaScript
 - SQLite
