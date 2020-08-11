@@ -51,7 +51,7 @@ Os estudantes poderão visualizar os professores disponíveis, clicando no botã
 Dentro da página de visualização dos professores, é necessário preenchar qual a matéria, o dia da semana e a hora desejada pela estudante e clicar no botão Filtrar.
 Caso, exista um algum professor cadastrado de acordo com o filtro, será exibido. Porém caso não exista cadastro, será mostrado a mensagem que não foi encontrado nenhum professor para a sua pesquisa.
 
-Projeto desenvolvido durante a **NLW2 - Next Level Week2** oferecida pela [Rocketseat].
+Projeto desenvolvido durante a **NLW2 - Next Level Week2** oferecida pela [Rocketseat](rs).
 
 ## 🎨 Layout
 
@@ -73,7 +73,16 @@ O layout da aplicação está disponível nas versões Mobile e Web.
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [HTML][html]
-- [CSS][css]
-- [JavaScript][javascript]
-- [SQLite][sqlite]
+- HTML html
+- CSS
+- JavaScript
+- SQLite
+
+## 📝 Licença
+
+Este projeto esta sobe a licença MIT.
+
+Feito com ❤️ por João Victor [Entre em contato!](https://www.linkedin.com/in/jo%C3%A3o-victor-b4877a148/)
+
+
+[rs]: https://rocketseat.com.br
