@@ -19,5 +19,31 @@
 ## 💻 Sobre o projeto
 
 <img alt="Logo Proffy" src="./public/images/favicon.png">
+Proffy - é uma forma de conectar professores e estudantes que precisam de um reforço escolar na intenção de melhorar o desempenho escolar de maneira simples, eficiente e barata.
 
-<link rel="shortcut icon" href="/images/favicon.png" type="image/png">
+Os professores poderão se cadastrar na plataforma web, enviando os seguintes dados pessoais:
+-Nome Completo
+-Link da sua foto
+-Whatsapp
+-Biografia
+
+Além disso, é necessário preencher informações sobre a aula, cadastrando:
+- Matéria nas seguintes opções:
+    *Artes;
+    *Biologia;
+    *Ciências;
+    *Educação física;
+    *Física;
+    *Geografia;
+    *História;
+    *Matemática;
+    *Português;
+    *Química
+-Custo da sua hora/aula(R$)
+
+E para finalizar preencha os horários disponíveis, marcando:
+-Dia da semana;
+-Horário inicial(Das)
+-Horário final(Até)
+
+Dessa forma, já será possível salvar o cadastro do professor na plataforma Proffy
