@@ -60,11 +60,11 @@ O layout da aplicação está disponível nas versões Mobile e Web.
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/mobile_inicial.png" width="200px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/mobile.png" width="200px">
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/desktop_inicial.png" width="400px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/desktop.png" width="400px">
 </p>
