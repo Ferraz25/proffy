@@ -16,7 +16,9 @@
 
 <img alt="Logo Proffy" src="./public/images/favicon.png"> Proffy - é uma forma de conectar professores e estudantes que precisam de um reforço escolar na intenção de melhorar o desempenho escolar de maneira simples, eficiente e barata.
 
-Os professores poderão se cadastrar na plataforma web, enviando os seguintes dados pessoais:<br>
+Os professores poderão se cadastrar na plataforma web, clicando no botão Dar aulas que fica na página inicial. 
+
+Na página de cadastro, será necessário enviar os seguintes dados pessoais:<br>
 -Nome Completo<br>
 -Link da sua foto<br>
 -Whatsapp<br>
@@ -42,4 +44,32 @@ E para finalizar preencha os horários disponíveis, marcando:<br>
 -Horário inicial(Das)<br>
 -Horário final(Até)<br>
 
-Dessa forma, já será possível salvar o cadastro do professor na plataforma Proffy
+Dessa forma, já será possível salvar o cadastro do professor na plataforma Proffy.
+
+Os estudantes poderão visualizar os professores disponíveis, clicando no botão Estudar, que fica na página inical.
+
+Dentro da página de visualização dos professores, é necessário preenchar qual a matéria, o dia da semana e a hora desejada pela estudante e clicar no botão Filtrar.
+Caso, exista um algum professor cadastrado de acordo com o filtro, será exibido. Porém caso não exista cadastro, será mostrado a mensagem que não foi encontrado nenhum professor para a sua pesquisa.
+
+Projeto desenvolvido durante a **NLW2 - Next Level Week2** oferecida pela [Rocketseat].
+
+## 🎨 Layout
+
+O layout da aplicação está disponível nas versões Mobile e Web.
+
+### Mobile
+
+<p align="center">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/mobile_inicial.png" width="200px">
+  
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/cadastro.png" width="200px">
+
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/tela_mobile_busca1.png" width="200px">
+
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/tela_mobile_res1.png" width="200px">
+
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/tela_mobile_busca2.png" width="200px">
+
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./public/images/tela_mobile_res2.png" width="200px">
+
+</p>
