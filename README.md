@@ -1,7 +1,3 @@
-<p align="center">
-    <img alt="GitHub language count" src="https://img.shields.io/badge/languages-3-blueviolet">
-</p>
-
 <h1 align="center">
     <img alt="Proffy" title="#Proffy" src="./public/images/banner.png" />
 </h1>
@@ -38,11 +34,12 @@ Além disso, é necessário preencher informações sobre a aula, cadastrando:
     *Matemática;<br>
     *Português;<br>
     *Química<br>
--Custo da sua hora/aula(R$)
 
-E para finalizar preencha os horários disponíveis, marcando:
--Dia da semana;
--Horário inicial(Das)
--Horário final(Até)
+- Custo da sua hora/aula(R$)
+
+E para finalizar preencha os horários disponíveis, marcando:<br>
+-Dia da semana;<br>
+-Horário inicial(Das)<br>
+-Horário final(Até)<br>
 
 Dessa forma, já será possível salvar o cadastro do professor na plataforma Proffy
